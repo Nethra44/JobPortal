@@ -7,6 +7,7 @@ import Jobs from "./pages/Jobs";
 import JobDetails from "./pages/JobDetails";
 import SeekerDashboard from "./pages/seeker/Dashboard";
 import RecruiterDashboard from "./pages/recruiter/Dashboard";
+import SavedJobs from "./pages/SavedJobs";
 function App() {
   return (
     <BrowserRouter>
@@ -22,6 +23,7 @@ function App() {
         {/* Job Seeker Dashboard */}
         <Route path="/seeker/dashboard" element={<SeekerDashboard />} />
         <Route path="/recruiter/dashboard" element={<RecruiterDashboard />} />
+        <Route path="/saved-jobs" element={<SavedJobs />} />
       </Routes>
     </BrowserRouter>
   );

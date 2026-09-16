@@ -162,7 +162,7 @@ function RecruiterDashboard() {
             </div>
 
             <div className="min-w-0">
-              <p className="truncate text-sm font-semibold">John Recruiter</p>
+              <p className="truncate text-sm font-semibold">Recruiter</p>
               <p className="truncate text-xs text-slate-400">
                 Talent Acquisition
               </p>
@@ -219,7 +219,7 @@ function RecruiterDashboard() {
           <section className="mb-8 flex flex-col justify-between gap-5 md:flex-row md:items-end">
             <div>
               <p className="mb-2 text-sm font-medium text-blue-600">
-                Good evening, John
+                Good evening, 
               </p>
 
               <h2 className="text-3xl font-bold tracking-tight text-slate-950 md:text-4xl">

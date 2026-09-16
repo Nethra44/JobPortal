@@ -126,7 +126,7 @@ function SeekerDashboard() {
             </div>
 
             <div className="min-w-0">
-              <p className="truncate text-sm font-semibold">Nethra</p>
+              <p className="truncate text-sm font-semibold"></p>
               <p className="truncate text-xs text-slate-400">Job Seeker</p>
             </div>
           </div>
@@ -215,7 +215,7 @@ function SeekerDashboard() {
               </div>
 
               <span className="hidden text-sm font-semibold sm:block">
-                Nethra
+                
               </span>
             </button>
           </div>
